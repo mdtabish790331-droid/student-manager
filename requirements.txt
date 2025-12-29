@@ -1,6 +1,6 @@
 streamlit==1.28.0
-pandas==2.1.5  # नया version
-numpy==1.26.4  # नया version
+pandas==2.2.2
+numpy==1.26.4
 plotly==5.17.0
-pillow==10.0.0
+Pillow==10.1.0
 requests==2.31.0
