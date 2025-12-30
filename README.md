@@ -94,5 +94,4 @@ student-manager/
 ├── README.md            # This file
 └── student_data.db      # SQLite database (auto-generated)
 🔧 Configuration
-Environment Variables
-Create a .env file for local development:
+
