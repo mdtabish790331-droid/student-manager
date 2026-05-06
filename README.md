@@ -86,8 +86,8 @@ streamlit run app.py
 📁 Project Structure
 text
 student-manager/
-├── app.py                 # Main application file
-├── requirements.txt       # Python dependencies
+/br├── app.py                 # Main application file
+/br├── requirements.txt       # Python dependencies
 ├── runtime.txt           # Python version specification
 ├── Procfile             # Deployment configuration
 ├── .gitignore           # Git ignore file
