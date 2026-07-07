@@ -73,16 +73,5 @@ python -m venv venv
 # Windows
 venv\Scripts\activate
 
-streamlit run app.py
-📁 Project Structure
-text
-student-manager/
-\n├── app.py                 # Main application file
-\n├── requirements.txt       # Python dependencies
-├── runtime.txt           # Python version specification
-├── Procfile             # Deployment configuration
-├── .gitignore           # Git ignore file
-├── README.md            # This file
-└── student_data.db      # SQLite database (auto-generated)
-🔧 Configuration
+
 
